@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml",
+            "outputFile": "/Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml",
             "map": [
                 {
                     "source": "/Users/emanueledalessandro/.gradle/caches/transforms-2/files-2.1/d7f3250ab1cdb026ae29ffd38cc23308/res/values-en-rAU/values-en-rAU.xml",

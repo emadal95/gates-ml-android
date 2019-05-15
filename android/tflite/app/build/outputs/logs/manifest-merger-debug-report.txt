@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
-INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
-INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
-INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
 MERGED from [com.android.support:design:25.2.0] /Users/emanueledalessandro/.gradle/caches/transforms-2/files-2.1/dab894d163dd965b1a2d4f1dbf882ab9/AndroidManifest.xml:17:1-27:12
 MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/emanueledalessandro/.gradle/caches/transforms-2/files-2.1/d7f3250ab1cdb026ae29ffd38cc23308/AndroidManifest.xml:17:1-27:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/emanueledalessandro/.gradle/caches/transforms-2/files-2.1/a8b78be6e11bd700e210c3f546cf26a4/AndroidManifest.xml:2:1-11:12
@@ -19,37 +19,37 @@ MERGED from [com.android.support:support-core-utils:25.2.0] /Users/emanueledales
 MERGED from [com.android.support:support-core-ui:25.2.0] /Users/emanueledalessandro/.gradle/caches/transforms-2/files-2.1/171b6088257ad876cb63220f9a18f7fb/AndroidManifest.xml:17:1-27:12
 MERGED from [com.android.support:support-compat:25.2.0] /Users/emanueledalessandro/.gradle/caches/transforms-2/files-2.1/990bf64d23a9079f884bab48755a5437/AndroidManifest.xml:17:1-27:12
 MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/emanueledalessandro/.gradle/caches/transforms-2/files-2.1/18510aedd6057b80d4f3c93187d1974a/AndroidManifest.xml:2:1-11:12
-INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
-INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
-INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
 	package
-		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:19:5-51
-		INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:19:5-51
+		INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
-		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
-		INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+		INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
-		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
-		INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+		INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:11-69
+		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:18:11-69
 uses-permission#android.permission.CAMERA
-ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:21:5-65
+ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:21:5-65
 	android:name
-		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:21:22-62
+		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:21:22-62
 uses-feature#android.hardware.camera
-ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:23:5-60
+ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:23:5-60
 	android:name
-		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:23:19-57
+		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:23:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:24:5-70
+ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:24:5-70
 	android:name
-		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:24:19-67
+		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:24:19-67
 application
-ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:26:5-38:19
+ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:26:5-38:19
 MERGED from [com.android.support:design:25.2.0] /Users/emanueledalessandro/.gradle/caches/transforms-2/files-2.1/dab894d163dd965b1a2d4f1dbf882ab9/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:design:25.2.0] /Users/emanueledalessandro/.gradle/caches/transforms-2/files-2.1/dab894d163dd965b1a2d4f1dbf882ab9/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/emanueledalessandro/.gradle/caches/transforms-2/files-2.1/d7f3250ab1cdb026ae29ffd38cc23308/AndroidManifest.xml:25:5-20
@@ -79,33 +79,33 @@ MERGED from [com.android.support:support-compat:25.2.0] /Users/emanueledalessand
 MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/emanueledalessandro/.gradle/caches/transforms-2/files-2.1/18510aedd6057b80d4f3c93187d1974a/AndroidManifest.xml:9:5-20
 MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/emanueledalessandro/.gradle/caches/transforms-2/files-2.1/18510aedd6057b80d4f3c93187d1974a/AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:27:9-41
+		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:27:9-41
 	android:icon
-		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:28:9-45
+		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:28:9-45
 	android:allowBackup
-		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:26:18-44
+		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:26:18-44
 	android:theme
-		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:29:9-45
+		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:29:9-45
 activity#com.example.android.tflitecamerademo.CameraActivity
-ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:31:9-37:20
+ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:31:9-37:20
 	android:label
-		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:32:19-51
+		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:32:19-51
 	android:name
-		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:31:19-85
+		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:31:19-85
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:33:13-36:29
+ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:33:13-36:29
 action#android.intent.action.MAIN
-ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:34:17-69
+ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:34:17-69
 	android:name
-		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:34:25-66
+		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:34:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:35:17-77
+ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:35:17-77
 	android:name
-		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:35:27-74
+		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml:35:27-74
 uses-sdk
-INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
-INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
 MERGED from [com.android.support:design:25.2.0] /Users/emanueledalessandro/.gradle/caches/transforms-2/files-2.1/dab894d163dd965b1a2d4f1dbf882ab9/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:design:25.2.0] /Users/emanueledalessandro/.gradle/caches/transforms-2/files-2.1/dab894d163dd965b1a2d4f1dbf882ab9/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/emanueledalessandro/.gradle/caches/transforms-2/files-2.1/d7f3250ab1cdb026ae29ffd38cc23308/AndroidManifest.xml:21:5-23:78
@@ -136,15 +136,15 @@ MERGED from [com.android.support:support-compat:25.2.0] /Users/emanueledalessand
 MERGED from [com.android.support:support-compat:25.2.0] /Users/emanueledalessandro/.gradle/caches/transforms-2/files-2.1/990bf64d23a9079f884bab48755a5437/AndroidManifest.xml:21:5-23:58
 MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/emanueledalessandro/.gradle/caches/transforms-2/files-2.1/18510aedd6057b80d4f3c93187d1974a/AndroidManifest.xml:5:5-7:41
 MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/emanueledalessandro/.gradle/caches/transforms-2/files-2.1/18510aedd6057b80d4f3c93187d1974a/AndroidManifest.xml:5:5-7:41
-INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
-INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:25.2.0] /Users/emanueledalessandro/.gradle/caches/transforms-2/files-2.1/dab894d163dd965b1a2d4f1dbf882ab9/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
-		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
-		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/AndroidManifest.xml

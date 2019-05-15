@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "outputFile": "/Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
             "map": [
                 {
                     "source": "/Users/emanueledalessandro/.gradle/caches/transforms-2/files-2.1/d7f3250ab1cdb026ae29ffd38cc23308/res/values-v21/values-v21.xml",
@@ -23,25 +23,6 @@
                     }
                 },
                 {
-                    "source": "/Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/RealTime RECOupling/tensorflow-for-poets-2/android/tflite/app/src/main/res/values-v21/base-template-styles.xml",
-                    "from": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "677",
-                        "endLines": "21",
-                        "endColumns": "12",
-                        "endOffsets": "753"
-                    },
-                    "to": {
-                        "startLines": "279",
-                        "startColumns": "4",
-                        "startOffsets": "20451",
-                        "endLines": "280",
-                        "endColumns": "12",
-                        "endOffsets": "20527"
-                    }
-                },
-                {
                     "source": "/Users/emanueledalessandro/.gradle/caches/transforms-2/files-2.1/dab894d163dd965b1a2d4f1dbf882ab9/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2",
@@ -58,6 +39,25 @@
                         "endLines": "291",
                         "endColumns": "12",
                         "endOffsets": "21241"
+                    }
+                },
+                {
+                    "source": "/Users/emanueledalessandro/Desktop/Projects/Gates/GoogleML_prototype/gates-ml-android-demo/tensorflow-for-poets-2/android/tflite/app/src/main/res/values-v21/base-template-styles.xml",
+                    "from": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "677",
+                        "endLines": "21",
+                        "endColumns": "12",
+                        "endOffsets": "753"
+                    },
+                    "to": {
+                        "startLines": "279",
+                        "startColumns": "4",
+                        "startOffsets": "20451",
+                        "endLines": "280",
+                        "endColumns": "12",
+                        "endOffsets": "20527"
                     }
                 }
             ]
